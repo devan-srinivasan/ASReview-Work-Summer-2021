@@ -1,0 +1,7 @@
+pandas
+h5py
+asreview
+typing
+plotly
+numpy
+datetime
